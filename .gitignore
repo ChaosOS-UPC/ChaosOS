@@ -1,0 +1,14 @@
+# Build outputs
+*.o
+*.so
+chaos_launcher
+mouse_troll
+win_troll
+alert_troll
+update_troll
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
